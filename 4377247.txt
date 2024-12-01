@@ -1,0 +1,6 @@
+curso de git aprendi el orden de la ejecucion de los comandos con significados, adems de comandos equivalentes.
+comprendi de mejor manera las herramientas disponibles de los repositorios remotos
+no sabia q se puede crear ramas temporales lejos del historial con stash
+Gracias por la dedicacion.
+Atte
+Vichofeo.
