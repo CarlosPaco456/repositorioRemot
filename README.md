@@ -9,6 +9,9 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Carlos](https://www.github.com/octokatherine)
 - [@segundo autor](https://www.github.com/octokatherine)
 
+## Colaboradores
+
+- [@J.Eddy]Jorge Eddy Agramont Botello)
 
 ## variables de entorno
 
