@@ -1,0 +1,5 @@
+En el curso aprendí sobre los comandos principales para el uso del GIT,
+las diferencias ente GIT, GitHub y GitLab;, las opciones para crear y
+combinar ramas que permiten tener el versiona miento del desarrollo de 
+aplicaciones que es especialmente útil para el trabajo en equipo.
+
