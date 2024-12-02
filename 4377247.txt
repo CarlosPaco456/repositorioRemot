@@ -4,3 +4,6 @@ no sabia q se puede crear ramas temporales lejos del historial con stash
 Gracias por la dedicacion.
 Atte
 Vichofeo.
+
+===========0=========
+Modificado por la tarea 14
