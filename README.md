@@ -11,7 +11,6 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Victor Quisbert](https://github.com/vichofeo)
 - [@Roberto Marquez](https://github.com/rmarquezProdem)
 
-
 ## variables de entorno
 
 Se deben configurar las siguientes variables de entorno en su archivo .env
