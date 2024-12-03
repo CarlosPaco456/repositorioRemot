@@ -1,4 +1,8 @@
 Aprendí a realizar las configuraciones necesarias para el manejo del repositorio, 
 así como también los distintos comandos que se puede utilizar para distintas circunstancias,
  como crear ramas ver logs subir cambios solucionar problemas de conflictos, etc.
+
+ atte.
+
+ francisco flores
  
