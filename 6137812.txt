@@ -1,0 +1,8 @@
+Git lo mejor para el control de versiones
+Tambien se puede trabajar con ramas
+Permite colaborar con otros desarrolladores
+
+Se tiene un historial de los cambios
+Con GIT tenemos proyectos mas organizados
+
+Paso 14
