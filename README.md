@@ -10,6 +10,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@segundo autor](https://www.github.com/octokatherine)
 - [@Victor Quisbert](https://github.com/vichofeo)
 - [@Roberto Marquez](https://github.com/rmarquezProdem)
+- [@Francisco Flores](https://github.com/franciscohf)
 
 ## variables de entorno
 
